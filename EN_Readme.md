@@ -47,4 +47,4 @@ I REALLY NEED an information about those. Localization files is about 250k+ line
 
 # For Perfect World Games
 
-Thank you for all your hard work of maintaining the game, and fixing mistakes that previous publisher ignored. But there're still a lot of problems, that cannot be fixed in a short time. If you're reading it, please, add ALL localization files on Crowdin page[https://crowdin.com/]. Let community to help you with fixing translation mistakes. And Please, tell the devs to fix locres files: there're multiple lines repeating or unused content.
+Thank you for all your hard work of maintaining the game, and fixing mistakes that previous publisher ignored. But there're still a lot of problems, that cannot be fixed in a short time. If you're reading it, please, add ALL localization files on Crowdin page[https://crowdin.com/]. Let community to help you with fixing translation mistakes. ~~And Please, tell the devs to fix locres files: there're multiple lines repeating or unused content.~~ Thank you for removing extra lines in 5.0
