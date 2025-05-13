@@ -18,8 +18,7 @@ No - there were barely any accidents of people banned for using safe for game mo
 In any case, using this patch is YOUR choice and YOU will take responsibility for that.
 
 # How to install?
-Go on Releases page, and download zip archive. Install as usual mods, by extracting files from archive to path:
-Game_Folder\Client\WindowsNoEditor\Hotta\Content\PatchPaks(if no folder - create it)
+Use guide by Remmy from Gateoo's Discord server in #tof-mods channel
 
 # On what fixes affects?
 - Descriptions of gamemodes, settings, menu
