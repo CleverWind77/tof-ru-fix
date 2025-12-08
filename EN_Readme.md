@@ -29,7 +29,7 @@ Use guide by Remmy from Gateoo's Discord server in #tof-mods channel
 - Fixed misgendering(wrong pronouns) to MC or other characters.
 - Most of dialogeus changed to be gender-neutral for MC
 - Changed multiple formal "You" in informal "You" when used for MC or characters-friends. Formal "You" is still used if appropriate: For strangers(for a while), high authorities, etc.
-- Fixed wrong traslations for: Gikros(Гикрос) changed to Hykros(Хайкрос), Bygone Phantom(Фантом Прошлого) changed to Bygone Phantasm(Фантазм Прошлого), ~~Lin'(Линь) changed to Lin(Лин)~~, etc.
+- Fixed wrong traslations for: Gikros(Гикрос) changed to Hykros(Хайкрос), Bygone Phantom(Фантом Прошлого) changed to Bygone Phantasm(Фантазм Прошлого), Kilo(Кило) changed to Kailo(Кайло), etc.
 - Correct usage of terms: Authoriser as Authoriser(Авторизатор), insted of different usage of Authorized(adverb)(Уполномоченный), Administrator(Администратор), etc.
 - Unifed text coloring: now like in current versions, all 3rd person actions/emotions are purple color, and important terms are blue.
 - Minor fixes.
